@@ -1,4 +1,4 @@
-odo List App
+Todo List App
 
 This Todo List app is a simple React application that allows users to add and remove todos. It leverages React’s useReducer hook for managing the state of the todo list, providing an efficient way to handle multiple actions like adding and removing tasks.
 
