@@ -1,3 +1,26 @@
+odo List App
+
+This Todo List app is a simple React application that allows users to add and remove todos. It leverages React’s useReducer hook for managing the state of the todo list, providing an efficient way to handle multiple actions like adding and removing tasks.
+
+Features:
+
+	•	Add new todos with a text input.
+	•	Remove existing todos with a single click.
+	•	Real-time state management using the useReducer hook.
+	•	Clean and intuitive user interface.
+
+How It Works:
+
+	1.	Users can input a task in the text field and click the “Add Todo” button to add it to the list.
+	2.	Each todo is displayed in a list format with a remove button next to it.
+	3.	Todos can be removed by clicking the “Remove” button.
+
+Tech Stack:
+
+	•	React: Frontend framework
+	•	useReducer: For managing the state of todos.
+	•	useState: For handling input field changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
